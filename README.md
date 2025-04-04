@@ -14,11 +14,11 @@ This project demonstrates a real-time pothole detection system using the YOLOv8 
 
 ### 🛠️ Tech Stack
 
-- [YOLOv8 (Ultralytics)](https://docs.ultralytics.com/)
-- [OpenCV](https://opencv.org/)
-- [NumPy](https://numpy.org/)
-- [Streamlit](https://streamlit.io/)
-- [Pillow (PIL)](https://pillow.readthedocs.io/)
+- YOLO
+- OpenCV
+- NumPy
+- Streamlit
+- Pillow (PIL)
 
 ### 📦 Requirements
 
@@ -39,7 +39,7 @@ numpy
 
 ### 🧾 How It Works
 
-1. Load a pre-trained YOLOv8 model (`best.pt`) trained for pothole detection.
+1. Load a pre-trained YOLO model (`best.pt`) trained for pothole detection.
 2. Either:
    - Start the webcam to detect potholes in real-time, or
    - Upload a video file for offline analysis.
@@ -52,10 +52,10 @@ numpy
 To launch the web app locally:
 
 ```bash
-streamlit run app.py
+streamlit run final.py
 ```
 
-> Make sure you have a trained `best.pt` YOLOv8 model in the project directory.
+> Make sure you have a trained `best.pt` YOLO model in the project directory.
 
 ### 📸 UI Preview
 
