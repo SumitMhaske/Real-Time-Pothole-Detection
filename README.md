@@ -57,11 +57,21 @@ streamlit run final.py
 
 > Make sure you have a trained `best.pt` YOLO model in the project directory.
 
-### 📸 UI Preview
+### 📸 Screenshots
 
-The app includes:
-- 📷 **Start Camera** / **Stop Camera** buttons
-- 📤 Video upload option
-- 🖼️ Real-time display of detections
+Here are some screenshots showcasing different aspects of the application:
+
+#### 1. System Flow
+![System Flow](Screenshots/1.jpeg)
+
+#### 2. System UI
+![System UI](Screenshots/2.png)
+
+#### 3. Real-Time Potholes Detection through Camera
+![Camera](Screenshots/3.jpeg)
+![Camera](Screenshots/4.jpeg)
+
+#### 3. Potholes Detection from Uploaded Video
+![Uploaded Video](Screenshots/5.jpeg)
 
 ---
