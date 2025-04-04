@@ -1,8 +1,6 @@
-Here’s a concise and professional description you can include in your GitHub README file for the provided code:
+## 🕳️ Real-Time Pothole Detection using YOLO and Streamlit
 
 ---
-
-## 🕳️ Real-Time Pothole Detection using YOLO and Streamlit
 
 This project demonstrates a real-time pothole detection system using the YOLOv8 object detection model integrated with a Streamlit web interface. It can detect potholes either through your system's camera or from an uploaded video file. The results are visualized with bounding boxes and segmentation masks drawn directly on the video frames.
 
@@ -67,5 +65,3 @@ The app includes:
 - 🖼️ Real-time display of detections
 
 ---
-
-Let me know if you’d like a version with badges, deployment instructions (e.g., Streamlit Cloud), or a model training section as well!
