@@ -62,16 +62,16 @@ streamlit run final.py
 Here are some screenshots showcasing different aspects of the application:
 
 #### 1. System Flow
-![System Flow](Screenshots/1.jpeg)
+![System Flow](Screenshots/1.png)
 
 #### 2. System UI
 ![System UI](Screenshots/2.png)
 
 #### 3. Real-Time Potholes Detection through Camera
-![Camera](Screenshots/3.jpeg)
-![Camera](Screenshots/4.jpeg)
+![Camera](Screenshots/3.png)
+![Camera](Screenshots/4.png)
 
 #### 3. Potholes Detection from Uploaded Video
-![Uploaded Video](Screenshots/5.jpeg)
+![Uploaded Video](Screenshots/5.png)
 
 ---
